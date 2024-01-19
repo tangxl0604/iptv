@@ -36,7 +36,6 @@ http://192.168.2.1:8574/rtp/239.93.42.54:5140
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/tangxl0604/iptv/main/tvlogo/CCTV17.png" group-title="央视",CCTV-17高清                                                                                                                                                           
 http://192.168.2.1:8574/rtp/239.93.0.92:5140
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/tangxl0604/iptv/main/tvlogo/CCTV4K.png" group-title="央视",CCTV-4K超高清
-http://192.168.2.1:8574/rtp/239.93.42.41:5140
 http://192.168.2.1:8574/rtp/239.93.42.42:5140
 #EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="https://raw.githubusercontent.com/tangxl0604/iptv/main/tvlogo/CCTVystq.png" group-title="央视",CCTV央视台球
 http://192.168.2.1:8574/rtp/239.93.0.218:5140
@@ -74,7 +73,6 @@ http://192.168.2.1:8574/rtp/239.93.0.157:2194
 http://192.168.2.1:8574/rtp/239.93.0.104:5140
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/tangxl0604/iptv/main/tvlogo/Sichuan.png" group-title="卫视",四川卫视高清                                                                                                                                                             
 http://192.168.2.1:8574/rtp/239.93.0.20:1235
-http://192.168.2.1:8574/rtp/239.93.1.143:5140
 #EXTINF:-1 tvg-id="2064" tvg-name="CDTV1" tvg-logo="https://raw.githubusercontent.com/tangxl0604/iptv/main/tvlogo/Chengdu1.png" group-title="四川",CDTV-1高清                                                                                                                                                           
 http://192.168.2.1:8574/rtp/239.93.0.16:5140
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/tangxl0604/iptv/main/tvlogo/Hunan.png" group-title="卫视",湖南卫视高清                                                                                                                                                            
