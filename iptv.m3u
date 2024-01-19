@@ -257,9 +257,9 @@ http://192.168.2.1:8574/rtp/239.93.42.24:5140
 http://192.168.2.1:8574/rtp/239.93.42.30:5140
 #EXTINF:-1 tvg-id="" tvg-name="家政频道高清" tvg-logo="https://raw.githubusercontent.com/tangxl0604/iptv/main/tvlogo/jzpd.png" group-title="数字付费",家政频道高清
 http://192.168.2.1:8574/rtp/239.93.42.48:5140
-#EXTINF:-1 tvg-id="6596" tvg-name="书画频道" tvg-logo="https://raw.githubusercontent.com/tangxl0604/iptv/main/tvlogo/shpd.png" group-title="轮播剧",书画频道 
+#EXTINF:-1 tvg-id="6596" tvg-name="书画频道" tvg-logo="https://raw.githubusercontent.com/tangxl0604/iptv/main/tvlogo/shpd.png" group-title="数字付费",书画频道 
 http://192.168.2.1:8574/rtp/239.93.42.67:5140
-#EXTINF:-1 tvg-id="6606" tvg-name="四海钓鱼" tvg-logo="https://raw.githubusercontent.com/tangxl0604/iptv/main/tvlogo/shdy.png" group-title="轮播剧",四海钓鱼 
+#EXTINF:-1 tvg-id="6606" tvg-name="四海钓鱼" tvg-logo="https://raw.githubusercontent.com/tangxl0604/iptv/main/tvlogo/shdy.png" group-title="数字付费",四海钓鱼 
 http://192.168.2.1:8574/rtp/239.93.0.55:5140
 #EXTINF:-1 tvg-id="" tvg-name="百视通4K" tvg-logo="https://raw.githubusercontent.com/tangxl0604/iptv/main/tvlogo/bsttv.png" group-title="轮播剧",百视通4K
 http://192.168.2.1:8574/rtp/239.93.42.75:5140
