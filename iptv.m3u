@@ -293,7 +293,7 @@ http://192.168.2.1:8574/rtp/239.93.0.214:5140
 http://192.168.2.1:8574/rtp/239.93.0.126:5140	
 #EXTINF:-1 tvg-id="" tvg-name="四川发布" tvg-logo="https://raw.githubusercontent.com/tangxl0604/iptv/main/tvlogo/2.png" group-title="四川",四川发布	
 http://192.168.2.1:8574/rtp/239.93.1.37:5140	
-#EXTINF:-1 tvg-id="" tvg-name="云看熊猫专区" tvg-logo="https://raw.githubusercontent.com/tangxl0604/iptv/main/1.png" group-title="四川",云看熊猫专区	
+#EXTINF:-1 tvg-id="" tvg-name="云看熊猫专区" tvg-logo="https://raw.githubusercontent.com/tangxl0604/iptv/main/tvlogo/1.png" group-title="四川",云看熊猫专区	
 http://192.168.2.1:8574/rtp/239.93.0.211:9148
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/tangxl0604/iptv/main/tvlogo/CGTNxbyy.png" group-title="央视",CGTN西班牙语                                                                                                                                                             
 http://192.168.2.1:8574/rtp/239.93.42.49:5140
