@@ -91,7 +91,7 @@ http://192.168.2.1:8574/rtp/239.93.0.181:5140
 http://192.168.2.1:8574/rtp/239.93.0.167:5140
 #EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/tangxl0604/iptv/main/tvlogo/Shandong.png" group-title="卫视",山东卫视高清                                                                                                                                                             
 http://192.168.2.1:8574/rtp/239.93.0.168:5140
-#EXTINF:-1 tvg-id="" tvg-name="蓉城先锋" tvg-logo="https://www.cd12371.com/img/logo.png" group-title="四川",蓉城先锋专区                                                                                                                                                             
+#EXTINF:-1 tvg-id="" tvg-name="蓉城先锋" tvg-logo="https://raw.githubusercontent.com/tangxl0604/iptv/main/tvlogo/Rcxf.png" group-title="四川",蓉城先锋专区                                                                                                                                                             
 http://192.168.2.1:8574/rtp/239.93.0.91:2101
 #EXTINF:-1 tvg-id="2055" tvg-name="四川经济" tvg-logo="https://raw.githubusercontent.com/tangxl0604/iptv/main/tvlogo/Sichuan1.png" group-title="四川",四川经济高清                                                                                                                                                           
 http://192.168.2.1:8574/rtp/239.93.1.101:5140
