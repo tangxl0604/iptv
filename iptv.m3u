@@ -215,7 +215,7 @@ http://192.168.2.1:8574/rtp/239.93.42.96:5140
 http://192.168.2.1:8574/rtp/239.93.42.97:5140
 #EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="https://raw.githubusercontent.com/tangxl0604/iptv/main/tvlogo/jbty.png" group-title="数字付费",劲爆体育高清                                                                                                                                                         
 http://192.168.2.1:8574/rtp/239.93.42.98:5140
-#EXTINF:-1 tvg-id="" tvg-name="五星体育" tvg-logo="https://raw.githubusercontent.com/tangxl0604/iptv/main/tvlogo/Shanghai5.png" group-title="数字付费",上海五星体育高清                                                                                                                                                        
+#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="https://raw.githubusercontent.com/tangxl0604/iptv/main/tvlogo/Shanghai5.png" group-title="数字付费",五星体育频道                                                                                                                                                       
 http://192.168.2.1:8574/rtp/239.93.1.186:5140
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="https://raw.githubusercontent.com/tangxl0604/iptv/main/tvlogo/CHC1.png" group-title="数字付费",CHC高清电影
 http://192.168.2.1:8574/rtp/239.93.42.5:5140
