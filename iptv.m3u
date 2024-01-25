@@ -37,8 +37,6 @@ http://192.168.2.1:8574/rtp/239.93.42.54:5140
 http://192.168.2.1:8574/rtp/239.93.0.92:5140
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/tangxl0604/iptv/main/tvlogo/CCTV4K.png" group-title="央视",CCTV-4K超高清
 http://192.168.2.1:8574/rtp/239.93.42.42:5140
-#EXTINF:-1 tvg-id="" tvg-name="CCTV8K" tvg-logo="https://raw.githubusercontent.com/tangxl0604/iptv/main/tvlogo/CCTV8K.png" group-title="央视",CCTV-8K超高清
-http://192.168.2.1:8574/rtp/239.93.42.73:5140
 #EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="https://raw.githubusercontent.com/tangxl0604/iptv/main/tvlogo/CCTVystq.png" group-title="央视",CCTV央视台球
 http://192.168.2.1:8574/rtp/239.93.0.218:5140
 #EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="https://raw.githubusercontent.com/tangxl0604/iptv/main/tvlogo/CCTVfyyy.png" group-title="央视",CCTV风云音乐
