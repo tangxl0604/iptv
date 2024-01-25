@@ -61,14 +61,12 @@ http://192.168.2.1:8574/rtp/239.93.42.47:5140
 http://192.168.2.1:8574/rtp/239.93.42.62:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tangxl0604/iptv/main/tvlogo/ah4k.png" group-title="四川",测试爱上4K频道                                                                                                                                        
 http://192.168.2.1:8574/rtp/239.93.0.97:5140
+#EXTINF:-1 tvg-id="" tvg-name="4K超高清电影专区" tvg-logo="https://raw.githubusercontent.com/tangxl0604/iptv/main/tvlogo/cx4k.png" group-title="数字付费",4K超高清电影专区
+http://192.168.2.1:8574/rtp/239.93.0.43:5140
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/tangxl0604/iptv/main/tvlogo/Phoenix1.png" group-title="卫视",凤凰卫视中文台
 http://192.168.2.1:8574/rtp/239.93.0.162:2192
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/tangxl0604/iptv/main/tvlogo/Phoenix2.png" group-title="卫视",凤凰卫视资讯台
 http://192.168.2.1:8574/rtp/239.93.0.118:2191
-#EXTINF:-1 tvg-id="" tvg-name="星空卫视" tvg-logo="https://raw.githubusercontent.com/tangxl0604/iptv/main/tvlogo/Startv.png" group-title="卫视",星空卫视
-http://192.168.2.1:8574/rtp/239.93.0.156:2193
-#EXTINF:-1 tvg-id="" tvg-name="V音乐" tvg-logo="https://raw.githubusercontent.com/tangxl0604/iptv/main/tvlogo/ChannelV.png" group-title="卫视",Channel[V]
-http://192.168.2.1:8574/rtp/239.93.0.157:2194
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/tangxl0604/iptv/main/tvlogo/CGTN.png" group-title="央视",CGTN英语                                                                                                                                                           
 http://192.168.2.1:8574/rtp/239.93.0.104:5140
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/tangxl0604/iptv/main/tvlogo/Sichuan.png" group-title="卫视",四川卫视高清                                                                                                                                                             
@@ -261,6 +259,10 @@ http://192.168.2.1:8574/rtp/239.93.42.48:5140
 http://192.168.2.1:8574/rtp/239.93.42.67:5140
 #EXTINF:-1 tvg-id="6606" tvg-name="四海钓鱼" tvg-logo="https://raw.githubusercontent.com/tangxl0604/iptv/main/tvlogo/shdy.png" group-title="数字付费",四海钓鱼 
 http://192.168.2.1:8574/rtp/239.93.0.55:5140
+#EXTINF:-1 tvg-id="" tvg-name="星空卫视" tvg-logo="https://raw.githubusercontent.com/tangxl0604/iptv/main/tvlogo/Startv.png" group-title="卫视",星空卫视
+http://192.168.2.1:8574/rtp/239.93.0.156:2193
+#EXTINF:-1 tvg-id="" tvg-name="V音乐" tvg-logo="https://raw.githubusercontent.com/tangxl0604/iptv/main/tvlogo/ChannelV.png" group-title="卫视",Channel[V]
+http://192.168.2.1:8574/rtp/239.93.0.157:2194
 #EXTINF:-1 tvg-id="" tvg-name="百视通4K" tvg-logo="https://raw.githubusercontent.com/tangxl0604/iptv/main/tvlogo/bsttv.png" group-title="轮播剧",百视通4K
 http://192.168.2.1:8574/rtp/239.93.42.75:5140
 #EXTINF:-1 tvg-id="" tvg-name="百视通" tvg-logo="https://raw.githubusercontent.com/tangxl0604/iptv/main/tvlogo/bsttv.png" group-title="轮播剧",百视通HD
@@ -437,8 +439,6 @@ http://192.168.2.1:8574/rtp/239.93.1.178:5140
 http://192.168.2.1:8574/rtp/239.93.1.175:5140
 #EXTINF:-1 tvg-id="" tvg-name="红色经典专区" tvg-logo="https://raw.githubusercontent.com/tangxl0604/iptv/main/tvlogo/2.png" group-title="数字付费",红色经典专区                                                                                                                                                             
 http://192.168.2.1:8574/rtp/239.93.1.176:5140
-#EXTINF:-1 tvg-id="" tvg-name="4K超高清电影专区" tvg-logo="https://raw.githubusercontent.com/tangxl0604/iptv/main/tvlogo/cx4k.png" group-title="数字付费",4K超高清电影专区
-http://192.168.2.1:8574/rtp/239.93.0.43:5140
 #EXTINF:-1 tvg-id="" tvg-name="中国体育1" tvg-logo="https://raw.githubusercontent.com/tangxl0604/iptv/main/tvlogo/2.png" group-title="未分类",中国体育1                                                                                                                                                             
 http://192.168.2.1:8574/rtp/239.93.42.25:5140
 #EXTINF:-1 tvg-id="" tvg-name="中国体育2" tvg-logo="https://raw.githubusercontent.com/tangxl0604/iptv/main/tvlogo/2.png" group-title="未分类",中国体育2                                                                                                                                                             
